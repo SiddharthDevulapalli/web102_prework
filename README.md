@@ -1,4 +1,4 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Game Monster*
 
 Submitted by: **Siddharth Devulapalli**
 
@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 <img src='assets/kap.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap as suggested for macOS  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
