@@ -1,29 +1,29 @@
 # WEB102 Prework - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: **Siddharth Devulapalli**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Game Monster** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [x] The introduction section explains the background of the company and how many games remain unfunded.
+* [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] The Our Games section has a search bar that displays the games which contain the search-text in their names as the user types in the search bar
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='assets/kap.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -35,6 +35,8 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+I am new to Javascript and I had to go through the resources to better understand how to do the challenges. I got stuck in challenge 3 for a while before I looked into the Javascripttutorial website and it helped me move ahead. Apart from this, I had a couple of issues mostly in terms of understanding the requirements clearly and sought help from the slack channel and resolved my issues smoothly. I really enjoyed working on this app and I learnt a lot. Looking forward to joining the course and learning more.
 
 ## License
 
